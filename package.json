@@ -1,5 +1,8 @@
 {
-  "name": "npm-lib-test",
+  "name": "@ayman-d/npm-lib-test",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/ayman-d"
+  },
   "version": "0.0.1",
   "description": "A test project for reusable react components library",
   "scripts": {
